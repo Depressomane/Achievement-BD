@@ -9,7 +9,7 @@ Add the following into your `config/extra.toml` file.
 
 ```toml
 [[ballsdex.packages]]
-location = "git+https://github.com/seiftheman/ballsdex-achievements.git#main"
+location = "git+https://github.com/Depressomane/Achievement-BD#main"
 path = "achievements"
 enabled = true
 ```
